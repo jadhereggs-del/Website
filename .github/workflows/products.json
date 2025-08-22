@@ -1,0 +1,38 @@
+{
+  "fridges": [
+    {
+      "name": "Premium Refrigerator",
+      "id": "1001"
+    }
+  ],
+  "cloth-washers": [
+    {
+      "name": "Front Load Washer",
+      "id": "2001"
+    }
+  ],
+  "acs": [
+    {
+      "name": "Split AC Unit",
+      "id": "3001"
+    }
+  ],
+  "fans": [
+    {
+      "name": "Ceiling Fan",
+      "id": "4001"
+    }
+  ],
+  "dish-washers": [
+    {
+      "name": "Built-in Dishwasher",
+      "id": "5001"
+    }
+  ],
+  "other": [
+    {
+      "name": "High-Speed Blender",
+      "id": "4152"
+    }
+  ]
+}
